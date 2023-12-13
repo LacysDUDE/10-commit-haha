@@ -1,4 +1,4 @@
-bekeres = int(input("Hány éves vagy?: "))
+bekeres = int(input("Hány éves vagy?Kérlek egész számban add meg.: "))
 
 
 szamitas = bekeres +10+20
