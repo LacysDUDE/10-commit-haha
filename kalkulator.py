@@ -1,7 +1,9 @@
-bekeres = 
+bekeres = int(input("Hány éves vagy?: "))
 
 
-szamitas =
+szamitas = bekeres +10*10
+
+
 
 
 print()
