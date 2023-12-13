@@ -6,4 +6,4 @@ szamitas = bekeres +10+20
 megoldas = szamitas -30
 
 
-print(megoldas)
+print("Te ",megoldas, " éves vagy!")
