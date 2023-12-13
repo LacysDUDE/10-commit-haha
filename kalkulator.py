@@ -1,0 +1,7 @@
+bekeres = 
+
+
+szamitas =
+
+
+print()
