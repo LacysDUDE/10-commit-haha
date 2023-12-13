@@ -7,3 +7,4 @@ megoldas = szamitas -30
 
 
 print("Te ",megoldas, " éves vagy!")
+print("| Készítette Hársch László |")
